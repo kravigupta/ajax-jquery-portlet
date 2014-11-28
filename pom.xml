@@ -6,7 +6,7 @@
 	<artifactId>ajax-jquery-portlet</artifactId>
 	<packaging>war</packaging>
 	<name>ajax-jquery-portlet Portlet</name>
-	<version>1.0</version>
+	<version>1.0.0.0</version>
 	<build>
 		<plugins>
 			<plugin>
